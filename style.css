@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f3f4f6;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.artikel {
+    margin-bottom: 20px;
+}
+
+.box {
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+/* WARNA */
+.blue {
+    background: #e0f2fe;
+    border: 1px solid #0284c7;
+}
+
+.green {
+    background: #dcfce7;
+    border: 1px solid #16a34a;
+}
+
+.purple {
+    background: #f3e8ff;
+    border: 1px solid #9333ea;
+}
+
+button {
+    padding: 8px 15px;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.blue button {
+    background: #0284c7;
+}
+
+.green button {
+    background: #16a34a;
+}
+
+.purple button {
+    background: #9333ea;
+}
+
+input {
+    padding: 8px;
+    width: 60%;
+    margin-top: 10px;
+}
+
+.highlight {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
